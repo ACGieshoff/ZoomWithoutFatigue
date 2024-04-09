@@ -1,3 +1,5 @@
+# This project and any scripts related to it comes without any warranty. You are responsible yourself for teh content you download.
+
 # Zoom without Fatigue
 "Zoom without Fatigue. A pilot study on the use of Augmented Reality in video conferences" is a project that investigates whether the use of augmented reality technology can decrease Zoom fatigue experienced during video conferences and video interpreting. To explore this question, an app has been developped aaht simulates a video conference (emphasis on "simulates". It's not a real one). 
 The project has been conducted from Jan 2023 to June 2024 at the ZHAW - Zurich university of Applied Sciences, School of Applied Linguistics, and funded by the digital initiative Zurich (for more information see https://www.zhaw.ch/en/research/research-database/project-detailview/projektid/6056/). 
