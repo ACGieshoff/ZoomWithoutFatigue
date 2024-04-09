@@ -359,14 +359,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ce1dbe16c4f1ec47b7a94f80b6d1a91, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  videoClip: {fileID: 32900000, guid: bab01e358ba14984ba33d3ad3da2315f, type: 3}
+  videoClip: {fileID: 32900000, guid: 6f9e673af3403554abb3d9d428ce2e81, type: 3}
   duration:
-  - 36
-  - 108
-  - 105
-  - 462
-  - 441
-  frameToShow: 260
+  - 20
+  - 20
+  - 20
+  - 20
+  - 20
+  frameToShow: 20
 --- !u!328 &214602549
 VideoPlayer:
   m_ObjectHideFlags: 0
@@ -6824,26 +6824,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startMaterial:
-  - {fileID: 2100000, guid: 5b54d1ffbf44e4f45aff361f789ff74e, type: 2}
+  - {fileID: 2100000, guid: ebc5b66dec17f444f98bb2818fa26f70, type: 2}
   materialsTraining:
-  - {fileID: 2100000, guid: 888a311275c400248becd1c3e9761cae, type: 2}
+  - {fileID: 2100000, guid: 0a694b995bc80674a86d37d11a912813, type: 2}
   changeDurationsTraining:
-  - 36
+  - 20
   maxNumberSlidesTraining: 0
   materialsA:
-  - {fileID: 2100000, guid: 0a694b995bc80674a86d37d11a912813, type: 2}
+  - {fileID: 2100000, guid: 888a311275c400248becd1c3e9761cae, type: 2}
   changeDurationsA:
-  - 462
+  - 20
   maxNumberSlidesA: 1
   materialsB:
-  - {fileID: 2100000, guid: ebc5b66dec17f444f98bb2818fa26f70, type: 2}
+  - {fileID: 2100000, guid: 3226b784b1da2974cb235c1a80dec7ab, type: 2}
   changeDurationsB:
-  - 441
+  - 20
   maxNumberSlidesB: 1
   materialsIntroA:
-  - {fileID: 2100000, guid: 0a694b995bc80674a86d37d11a912813, type: 2}
+  - {fileID: 2100000, guid: 742d6bcaf512d144ebfa1ed9ca12f04d, type: 2}
   changeDurationsIntroA:
-  - 108
+  - 20
   maxNumberSlidesIntroA: 1
   materialsIntroB:
   - {fileID: 2100000, guid: ebc5b66dec17f444f98bb2818fa26f70, type: 2}
@@ -7464,53 +7464,47 @@ MonoBehaviour:
   - {fileID: 2100000, guid: 5b54d1ffbf44e4f45aff361f789ff74e, type: 2}
   materialsTraining:
   - {fileID: 2100000, guid: 242b1d289fa3e224293f8e717ed4a440, type: 2}
+  - {fileID: 2100000, guid: fe0fa5293fc8bc64983a034365f002c0, type: 2}
   changeDurationsTraining:
-  - 36
-  maxNumberSlidesTraining: 1
+  - 3
+  - 5
+  maxNumberSlidesTraining: 2
   materialsA:
   - {fileID: 2100000, guid: e4560f9269f7f264e90a490501992c99, type: 2}
   - {fileID: 2100000, guid: cbeb1c273fbc4fd4999021e584407a44, type: 2}
-  - {fileID: 2100000, guid: 350e71b1668be134c972975c7f5ecd20, type: 2}
-  - {fileID: 2100000, guid: 6568fb353bdd22247b711e0067056cbd, type: 2}
-  - {fileID: 2100000, guid: f9f121a6d01c80641a83f166a5eb2bcb, type: 2}
-  - {fileID: 2100000, guid: 6ee1ed46f271397418134ae82d6d58eb, type: 2}
-  - {fileID: 2100000, guid: 1e0da3a8cff4acb4a8a953e2f6c39b18, type: 2}
   changeDurationsA:
-  - 47
-  - 45
   - 5
-  - 80
-  - 45
-  - 195
-  - 44
-  maxNumberSlidesA: 7
+  - 5
+  maxNumberSlidesA: 2
   materialsB:
   - {fileID: 2100000, guid: 1829a67e8b10f5442919e88f26523583, type: 2}
   - {fileID: 2100000, guid: ac2307c10a3b69849aaf6a1db46400eb, type: 2}
-  - {fileID: 2100000, guid: 56904e05428278740b5d3e6db0717d89, type: 2}
-  - {fileID: 2100000, guid: 0caf1cac0fe32284db7a66de53fb4f1c, type: 2}
-  - {fileID: 2100000, guid: 8a44d1b4c5c5f654e9d7907c9b8a8045, type: 2}
-  - {fileID: 2100000, guid: f100d17f7802c424bb4ebe9f8b379b6b, type: 2}
-  - {fileID: 2100000, guid: 09ec6b5c7cce33f429753188d1f20b30, type: 2}
+  - {fileID: 2100000, guid: d6798b1ffc9eab842b70448b623c93a7, type: 2}
+  - {fileID: 2100000, guid: d745e21f9e8761a479bbc23f9a1c2628, type: 2}
   changeDurationsB:
-  - 73
-  - 65
-  - 122
-  - 65
-  - 52
-  - 46
-  - 15
-  maxNumberSlidesB: 7
+  - 5
+  - 5
+  - 5
+  - 5
+  maxNumberSlidesB: 4
   materialsIntroA:
   - {fileID: 2100000, guid: 682d4678071419e47b4de51921904fb8, type: 2}
-  changeDurationsIntroA:
-  - 108
-  maxNumberSlidesIntroA: 1
-  materialsIntroB:
   - {fileID: 2100000, guid: 4fef57a018ea0c446914fd01e9126e25, type: 2}
+  - {fileID: 2100000, guid: 29b59f97dc259314dbfee14ea0a3eb24, type: 2}
+  - {fileID: 2100000, guid: 37a8555b42dd13141b655658940f1312, type: 2}
+  changeDurationsIntroA:
+  - 5
+  - 5
+  - 5
+  - 5
+  maxNumberSlidesIntroA: 4
+  materialsIntroB:
+  - {fileID: 2100000, guid: 264c682274101fa4eb45b87f00a66ee4, type: 2}
+  - {fileID: 2100000, guid: 48241ddd96fda5a4fbde8769503b6827, type: 2}
   changeDurationsIntroB:
-  - 105
-  maxNumberSlidesIntroB: 1
+  - 5
+  - 5
+  maxNumberSlidesIntroB: 2
 --- !u!1 &1437562980
 GameObject:
   m_ObjectHideFlags: 0
@@ -7879,7 +7873,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1748171905}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 7f99f9966c6862b4dbe6ff1681b67d19, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 6f9e673af3403554abb3d9d428ce2e81, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -7919,12 +7913,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   videoClips:
-  - {fileID: 32900000, guid: 4293bfee0d75b0b4593a49f7f310a5ca, type: 3}
-  - {fileID: 32900000, guid: 6a1c3d1e86b894d4f854bd370d70596d, type: 3}
-  - {fileID: 32900000, guid: 07b8f9d6016036246b319f298e7ca635, type: 3}
-  - {fileID: 32900000, guid: 6d333c10f3fcd5c4c8f8509718900e15, type: 3}
-  - {fileID: 32900000, guid: 55aca6e20a37e4f45ab519ca1151c4a3, type: 3}
-  frameToShow: 260
+  - {fileID: 32900000, guid: 6f9e673af3403554abb3d9d428ce2e81, type: 3}
+  - {fileID: 32900000, guid: 07bfc875a7115ee44b6df06a64c3e25b, type: 3}
+  - {fileID: 32900000, guid: 5880d7cdeffe93340ba554aad4604e08, type: 3}
+  - {fileID: 32900000, guid: 2745365709c86df44844974322e4337b, type: 3}
+  - {fileID: 32900000, guid: 1afe1a95d2ac99944abcea9beaf70485, type: 3}
+  frameToShow: 20
 --- !u!1 &1773302113
 GameObject:
   m_ObjectHideFlags: 0
